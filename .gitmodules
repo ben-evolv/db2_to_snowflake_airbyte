@@ -1,0 +1,3 @@
+[submodule "submodule_replication/airbyte"]
+	path = submodule_replication/airbyte
+	url = https://github.com/airbytehq/airbyte.git
